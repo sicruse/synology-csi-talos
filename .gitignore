@@ -1,3 +1,4 @@
 bin/
-config/client-info.yml
+config/client-info*.yml
+config/*secret*.yml
 test/sanity/sanity-test-secret-file.yaml
